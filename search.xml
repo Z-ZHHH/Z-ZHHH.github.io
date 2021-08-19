@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>第一</title>
+      <link href="/2021/08/19/di-yi/"/>
+      <url>/2021/08/19/di-yi/</url>
+      
+        <content type="html"><![CDATA[<p>123</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 机器学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> python </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2021/08/19/hello-world/"/>
       <url>/2021/08/19/hello-world/</url>
